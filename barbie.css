@@ -1,0 +1,199 @@
+/* CSS RESET*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration:none;
+}
+
+
+body {
+    background-color:azure;
+    background-image: url(https://resi.ze-robot.com/dl/cl/clean-pain-wallpaper-1080%C3%971920.jpg);
+    background-repeat: repeat;
+    background-position: center ;
+    background-attachment: fixed;
+    background-size: 200px 300px;
+}
+header{
+    width: 960px;
+    height:200px;
+    border-style:solid;
+    border-color:rgb(231, 124, 23);
+    border-width: 3px;
+    background-color:rgba(231, 124, 23,0.3);
+    margin: 0 auto;
+    margin-top: 10px;
+}
+#shikamaru {
+    float:left;
+    width: 250px;
+    height: 180px;
+    border: none;
+    background-image:url(https://i0.wp.com/i.gifer.com/origin/4b/4b55a5c5f95757c8d56c089051fa21f7_w200.gif);
+    background-size: 250px 180px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#titlee {
+    float:right;
+    width: 500px;
+    height: 50px;
+    border: none;
+    margin-top: 10px;
+    margin-right: 10px;
+    background-image: url(https://borutoexplorer.com.br/wp-content/uploads/2020/07/naruto-logo-classico-1024x436.png);
+    background-size: 300px 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+main {
+    width: 960px;
+    height: 800px;
+    border:none;
+    /* background-color: azure; */
+    margin: 0 auto;
+    margin-top: 10px;
+}
+#luta{
+    float:right;
+    width: 48%;
+    height: 60px;
+    border: 1px solid #151515;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin: 0 auto;
+    background-color:rgba(0,0,0,0.3);
+}
+#passando{
+    float:left;
+    width: 48%;
+    height: 60px;
+    border: 1px solid #151515;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin: 0 auto;
+    background-color:rgba(0,0,0,0.3);
+}
+#esquerda{
+    float:left;
+    width: 260px;
+    height: 650px;
+    border: 1px solid #151515;
+    margin-left: 0px;
+    background-color:white;
+    margin-top:10px;
+    background-color:rgba(0,0,0,0.3);
+}
+#hinata{
+    float:left;
+    width: 200px;
+    height: 250px;
+    border: 0px solid #151515;
+    margin-left: 30px;
+    background-color:rgba(0,0,0,0.3);
+    margin-top:60px;
+    background-image: url(https://www.pngmart.com/files/4/Itachi-Uchiha-PNG-File.png);
+    background-size: 200px 250px;
+}
+#sakura {
+    float:left;
+    width: 200px;
+    height: 250px;
+    border: 0px solid #151515;
+    margin-left: 30px;
+    background-color:white;
+    margin-top:10px;
+    background-image: url(http://pa1.narvii.com/6371/3f1840cf2460ff8197116afd070e9ac997214ea6_00.gif);
+    background-size: 200px 250px;
+    
+}
+article {
+    float:right;
+    width:420px;
+    height:650px;
+    border-style:solid;
+    border-color:black;
+    border-width: 3px;
+    background-color:rgba(0,0,0,0.7);
+    margin-right:270px;
+    margin-top:10px;
+}
+#tenten {
+    float:left;
+    width: 175px;
+    height: 180px;
+    border: 1px solid #151515;
+    margin-left: 10px;
+    background-color:rgba(0,0,0,0.3);
+    margin-top:10px;
+    background-image: url(http://pa1.narvii.com/6860/5b2b1f49308621f7ea4ea5db6806c6d95e1ca3e2_00.gif);
+    background-size: 175px 180px;
+}
+#neji{
+    float:right;
+    width: 175px;
+    height: 180px;
+    border: 1px solid #151515;
+    margin-right: 10px;
+    background-color:rgba(0,0,0,0.3);
+    margin-top:10px;
+    background-image: url(http://pa1.narvii.com/6905/9005c8245f720c58809b4f41538781816b8edb58r1-255-255_00.gif);
+    background-size: 175px 180px;
+}
+#choji{
+    width: 90 px;
+    height: 150px;
+    border: 1px solid #151515;
+    background-color:rgba(0,0,0,0.3);
+    margin-top:210px;
+    margin-left:10px;
+    margin-right:10px;
+    
+}
+#ino{
+    float:left;
+    width: 175px;
+    height: 180px;
+    border: 1px solid #151515;
+    margin-left: 10px;
+    background-color:rgba(0,0,0,0.3);
+    margin-top:10px;
+    background-image: url(https://thumbs.gfycat.com/SeveralTenseEkaltadeta-size_restricted.gif);
+    background-size: 175px 180px;
+}
+#jiraya{
+    float:right;
+    width: 175px;
+    height: 180px;
+    border: 1px solid #151515;
+    margin-right: 10px;
+    background-color:rgba(0,0,0,0.3);
+    margin-top:10px;
+    background-image: url(https://i.pinimg.com/originals/7f/57/b8/7f57b80c82c7d0e5b878f7dd21404b83.gif);
+    background-size: 175px 180px;
+}
+#direita{
+    float:right;
+    width: 260px;
+    height: 650px;
+    border: 1px solid #151515;
+    background-color:white;
+    position: relative;
+    top: -650px;
+    background-image:url(https://i.pinimg.com/originals/cf/01/67/cf0167a8468525ac3d3cdbd20955fafa.png);
+    background-size: 260px 650px;
+}
+footer {
+    width: 960px;
+    height:200px;
+    border-style:solid;
+    border-color:black;
+    border-width: 3px;
+    background-color:rgba(0,0,0,0.3);
+    margin: 0 auto;
+    margin-top: -50px;
+}
+p{
+    color:white;
+}
